@@ -97,6 +97,7 @@ After training, the model is evaluated using:
 - **Classification Report**: Shows precision, recall, and F1-score for anomaly detection.
 
 Results from testing indicate **high accuracy (~93%)**, meaning the model effectively identifies anomalies.
+<img width="358" alt="Screenshot 2025-02-13 at 5 46 55 PM" src="https://github.com/user-attachments/assets/ea9b0eac-214d-4305-ad03-b5d3153167b2" />
 
 ## Model Persistence and Deployment
 
